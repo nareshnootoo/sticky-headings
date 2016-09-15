@@ -1,0 +1,11 @@
+body{margin:0; padding:0;}
+p {font-size:16px; line-height:140%;}
+.header {text-align:center;}
+.sticky-header-wrap {position:relative; width:100%; max-width:500px; margin:40px auto 0; overflow:hidden;}
+.sticky-header-wrap h2, .sticky-header-wrap p {width:100%;}
+.sticky-header-wrap h2 {max-width:500px; margin:0; padding:10px; background:rgba(0, 0, 0, 0.9); line-height:120%; color:#fff;}
+.sticky-helper {margin-top:0;}
+.sticky-header-hidden {visibility:hidden;}
+.sticky-header-wrap {position:relative;}
+.sticky-helper {position:absolute; margin-top:0 !important;} /* `h2` is probably not necessary in your case */
+.is-sticky{ background:rgba(0, 0, 0, 0.8) !important; color:#fff; padding:10px !important;}
