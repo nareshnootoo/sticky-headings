@@ -1,7 +1,7 @@
 /*
  * sticky-headings.js
  * author : Naresh Kumar
- * Copyright 2015 zapbuild 
+ * Copyright 2015 Naresh kumar 
  * 
  */
 
