@@ -9,14 +9,20 @@
 * Initialize the plugin as ```$('.sticky-header').stickyheadings();```
 
 ### How to give offset
-	```$('.sticky-header').stickyheadings({offset:10});```
+```
+$('.sticky-header').stickyheadings({offset:10});
+```
 	
 ### Callback function for each scroll
  Second parameter in the arguments acts as the callback function. 
  
-	```$('.sticky-header').stickyheadings({},onscroll);```
+```
+$('.sticky-header').stickyheadings({},onscroll);
+```
 	
 ### Callback function after heading got stuck, i.e. onstuck 
  Second parameter in the arguments acts as the callback function. 
  
-	```$('.sticky-header').stickyheadings({},null, onstuck);```
+```
+$('.sticky-header').stickyheadings({},null, onstuck);
+```
