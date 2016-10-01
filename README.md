@@ -26,3 +26,6 @@ $('.sticky-header').stickyheadings({},onscroll);
 ```
 $('.sticky-header').stickyheadings({},null, onstuck);
 ```
+
+### Demo
+- ["Clik here for the demo"](http://uidroves.com/sticky-headings/)
